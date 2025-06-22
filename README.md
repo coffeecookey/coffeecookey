@@ -1,7 +1,7 @@
 ## Hello, I am Tanisha Ojha!
 
 - 🎓 Currently studying Information Technology at IGDTUW (Indira Gandhi Delhi Technical University for Women)
-- 🌱 Currently trying to study Machine Learning and Web Development!
+- 🌱 Exploring Machine Learning, Deep Learning, Computer vision and Web Development!
 - 📝 Check out my <a href="https://coffeecookey.github.io/"> blog </a> for more!
 
 <br/>
