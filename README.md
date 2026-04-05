@@ -1,8 +1,7 @@
 <div align="center">
 
-# Tanisha Ojha
-
-### IT @ Indira Gandhi Delhi Technical University for Women
+### Tanisha Ojha
+ IT @ Indira Gandhi Delhi Technical University for Women
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanisha-ojha-6bb1b0203/)
 
