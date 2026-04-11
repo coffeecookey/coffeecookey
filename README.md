@@ -15,7 +15,7 @@ I am an IT student at IGDTUW with a strong foundation in development, currently 
 
 ## Open Source Contributions
 
-I actively contribute to major open-source projects in the AI and software engineering ecosystem.
+I try to contribute to open source projects, but also take my time to understand the source code in order to make meaningful contributions. Some of my PRs can be found below:
 
 | Organization | Contribution | Impact |
 |:-------------|:-------------|:-------|
