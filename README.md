@@ -12,3 +12,13 @@
 ### About Me
 
 I am an IT student at IGDTUW with a strong foundation in development, currently exploring NLP, Computer Vision, System Design. I am also extremely passionate about open-source tech and building unique projects that force me to grow my skillset. Check out my <a href="https://coffeecookey.github.io/"> blog </a> for more about my interests.
+
+## Open Source Contributions
+
+I actively contribute to major open-source projects in the AI and software engineering ecosystem.
+
+| Organization | Contribution | Impact |
+|:-------------|:-------------|:-------|
+| [![Data.table](https://img.shields.io/badge/R-data.table-276DC3)](https://github.com/Rdatatable/data.table) | Implementation of NSE | [View  PRs →](https://github.com/Rdatatable/data.table/pulls/sisyphuswastaken) |
+
+
