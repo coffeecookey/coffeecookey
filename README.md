@@ -26,7 +26,6 @@
 │  impact:    merged PRs in Family Script, on-going PR in data.table                │
 │  strength:  C/C++ systems, Transformers, research, deep learning, AI guardrails   │
 │  workflow:  design and ideation, modular code, testing and fixing, clean commits  │
-│  Work ex:   Developer intern @ Family script, research at CSSR                    │
 │  Learning:  GPU programming, mechanistic interpretability                         │
 │                                                                                   │
 ╰───────────────────────────────────────────────────────────────────────────────────╯
