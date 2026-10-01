@@ -1,6 +1,6 @@
 <div align="center">
 
-### Tanisha Ojha - engineer, developer, researcher
+### Tanisha Ojha - undergrad @ IGDTUW
  
  <img src="https://komarev.com/ghpvc/?username=coffeecookey&label=Profile%20views&color=0e75b6&style=flat" alt="coffeecookey"/>
 </div>
