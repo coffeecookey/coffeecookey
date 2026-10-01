@@ -14,7 +14,7 @@
 
 <!-- <img width="260" height="235" alt="Undertale pacifist run" src="https://github.com/user-attachments/assets/5b5ddcc6-3ac8-4edd-8f32-c524f1a19e25"/> -->
 
-<img width="205" height="245" alt="Cozy Winter Pixel Art Backgrounds for a Warm Vibe" src="https://github.com/user-attachments/assets/3d4d7c3c-673b-4bc9-9b3e-670c622938bf" />
+<img width="195" height="245" alt="Cozy Winter Pixel Art Backgrounds for a Warm Vibe" src="https://github.com/user-attachments/assets/3d4d7c3c-673b-4bc9-9b3e-670c622938bf" />
 
 </td>
 <td valign="top">
