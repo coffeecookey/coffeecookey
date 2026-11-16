@@ -7,5 +7,8 @@
 </div>
 
 ##
-I am an IT student at IGDTUW with a strong foundation in development, currently exploring NLP, Computer Vision, System Design, and AI safety. I am also extremely passionate about open-source tech and building unique projects that force me to grow my skillset. Check out my <a href="https://coffeecookey.vercel.app/"> website </a> for more about my interests.
+I am an IT student at IGDTUW with a strong foundation in development, currently exploring NLP, Computer Vision, System Design, and AI safety. I am also extremely passionate about open-source tech and building unique projects that force me to grow my skillset. 
+I am currently a member of the [Computational Social Science Research Group](https://rishabhkaushal.github.io/cssr_igdtuw/index.html) under Dr. Rishabh Kaushal. 
+
+Check out my <a href="https://coffeecookey.vercel.app/"> website </a> for more about my interests.
 More recently, you'll find me tinkering in [Research Drafts](https://github.com/orgs/ResearchDrafts/repositories), learning the math and theory behind ML, DL, AI, and exploring agentic AI for research!
